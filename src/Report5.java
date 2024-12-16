@@ -3,6 +3,7 @@ public class Report5 {
         String str = "壱百満";
         int value = Integer.parseInt(str);
     }
+    
 }
     
 
